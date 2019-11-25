@@ -143,3 +143,50 @@ ul{
     width : 300px;
   }
 }
+@media (max-width : 767px){
+
+.optional-Div{
+  display : none;
+}
+}
+
+@media (max-width : 414px){
+
+  .H1-Header{
+    font-size : 3.5rem;
+  }
+  .H2-Header{
+    font-size : 1.6rem;
+    margin-top : 20px;
+  }
+  .CTAStyle{
+    height : 55px;
+  }
+  .H2-Petit-Dejeuner{
+    text-align : center;
+    font-size : 3.5rem;
+  }
+  .H3-PetitDejeuner{
+    font-size : 2.3rem;
+  }
+  .Price{
+    height : 45px;
+    margin-left : 75px;
+  }
+  .H2-Sandwich{
+    font-size : 3.5rem;
+    text-align : center;
+  }
+  .H3-Sandwich-1{
+    font-size : 2.2rem;
+  }
+  .Margin1{
+    margin-left : 15px;
+  }
+  .Margin2{
+    margin-left : 55px;
+  }
+  .Margin3{
+    margin-left : 80px;
+  }
+}
