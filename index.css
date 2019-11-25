@@ -137,3 +137,9 @@ ul{
   width : 589px;
   margin : 50px auto 100px;
 }
+
+@media (max-width : 589px){
+  .FrameDimension{
+    width : 300px;
+  }
+}
