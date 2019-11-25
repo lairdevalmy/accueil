@@ -1,0 +1,139 @@
+body{
+  margin : 0;
+}
+ul{
+  list-style-type: none;
+  margin-top: 40px;
+}
+#Petit-Déjeuner{
+  position : relative;
+  top : -1px;
+}
+.Wrapper-Content{
+  height : 100vh;
+  background-image: url('Image/Header-BG.png');
+  background-repeat: no-repeat;
+  background-size : cover;
+  background-position: center;
+}
+.H1-Header{
+  margin : 0;
+  text-align : center;
+  font-family : "Lato", sans-serif;
+  font-weight : 700;
+  color : white;
+  font-size : 5rem;
+}
+.H2-Header{
+  margin : 0;
+  text-align : center;
+  font-family : 'Lato',sans-serif;
+  font-weight : 400;
+  color : white;
+  font-size : 3.5rem;
+}
+.CTAStyle{
+  background : transparent;
+  border-width : 0;
+  display : block;
+  margin : 50px auto 0;
+}
+.Petit-Dejeuner-MainWrapper{
+  background-image: url('Image/Petit-Dejeuner-BG.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.FirstDivision{
+  display : inline-block;
+  height : 100%;
+  width : 50%;
+}
+.SecondDivision{
+  display: inline-block;
+  height : 100%
+  width : 50%;
+}
+.H2-Petit-Dejeuner{
+  margin-top: 30px;
+  margin-left : 30px;
+  text-align : left;
+  font-family : "Lato",sans-serif;
+  font-size : 4rem;
+  font-weight : 400;
+  color: white;
+}
+.H2-Sandwich{
+  text-align : left;
+  font-family : "Lato",sans-serif;
+  font-size : 4rem;
+  font-weight : 400;
+  color: white;
+}
+.H3-PetitDejeuner{
+  display : inline-block;
+  text-align : center;
+  font-family : "Lato",sans-serif;
+  font-weight : 400;
+  color : white;
+  font-size: 2.8rem;
+}
+.AuChoix{
+  font-size: 2rem;
+}
+.Margin1{
+  margin-left : 35px;
+}
+.Margin2{
+  margin-left : 75px;
+}
+.Margin3{
+  margin-left : 100px;
+}
+.Price{
+  height : 55px;
+  margin-top : 30px;
+  margin-left : 85px;
+  margin-bottom : 40px;
+}
+.Sandwiches-Main-Wrapper{
+  background-image: url('Image/SandwichBG.png');
+  background-repeat: no-repeat;
+  background-size : cover;
+}
+.Text-Wrapper{
+  display : inline-block;
+  margin-left: 30px;
+  margin-top: 40px;
+}
+.H3-Sandwich-1{
+  margin-top: 50px;
+  font-size: 3.2rem;
+  font-family : "Lato",sans-serif;
+  font-weight : 400;
+  color : white;
+}
+.H3-Sandwich-2{
+  font-family: "Lato",sans-serif;
+  font-weight : 300;
+  color : white;
+}
+.Price-Sandwich{
+  margin: 20px 0 150px;
+  height: 50px;
+}
+.mapouter{
+  text-align : center;
+  width : 65%;
+  height : 200px;
+}
+.BG-Wrapper{
+  text-align: center;
+  background-image: url("Image/ContactBG.png");
+  background-repeat : no-repeat;
+  background-size: cover;
+}
+.FrameDimension{
+  height : 249px;
+  width : 589px;
+  margin : 50px auto 100px;
+}
