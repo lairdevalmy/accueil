@@ -162,9 +162,6 @@ ul{
     font-size : 1.6rem;
     margin-top : 20px;
   }
-  .CTAStyle{
-    height : 55px;
-  }
   .H2-Petit-Dejeuner{
     text-align : center;
     font-size : 3.5rem;
@@ -191,5 +188,8 @@ ul{
   }
   .Margin3{
     margin-left : 80px;
+  }
+  .Text-Wrapper{
+    margin-left : 20px;
   }
 }
